@@ -7,7 +7,7 @@
   ],
   "description": "Provide a collection of US States",
   "main": "./build/angular-us-states.js",
-  "keywords": ["US", "States", 'America", "angular"],
+  "keywords": ["US", "States", "America", "angular"],
   "license": "MIT",
   "homepage": "https://github.com/brentvatne/angular-us-states",
   "ignore": [
