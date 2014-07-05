@@ -1,6 +1,6 @@
 {
   "name": "angular-us-states",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Provide a collection of US States",
   "main": "./build/angular-us-states.js",
